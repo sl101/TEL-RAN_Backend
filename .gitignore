@@ -1,0 +1,6 @@
+lessons/
+*.idea
+**/target/
+**/out/
+pom.xml
+test.iml
