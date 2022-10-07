@@ -1,6 +1,6 @@
 # TEL-RAN_Backend
 
-- [hw_5.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_06_10/src/Main.java) - _homework 06.10.2022_
+- [hw_5.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_06_10/src) - _homework 06.10.2022_
 
 ===========================================
 
