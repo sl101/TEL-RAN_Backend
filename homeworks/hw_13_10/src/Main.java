@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 //First level:
@@ -11,8 +10,6 @@ import java.util.Scanner;
 // Прибор работает корректно, если температура первой колбы выше 100 градусов, а температура второй колбы меньше 100 градусов.
 // Вы должны написать метод, который проверяет это устройство. В результате алгоритм выводит сообщение true или false.
 // Ваша программа должна иметь переменные Temperature1 и Temperature2, их можно получить из командной строки.
-
-
 
 public class Main {
     public static final String ANSI_RESET = "\u001B[0m";
@@ -98,7 +95,7 @@ public class Main {
         if(result)
             System.out.println(ANSI_GREEN + "Все отлично!\nПрибор работает корректно..." + ANSI_RESET);
         else
-            System.out.println(ANSI_RED+ "Опасность!"+ ANSI_RESET +"\nНарушен температурный режим...");
+            System.out.println(ANSI_RED+ "Опасность!\nНарушен температурный режим..."+ ANSI_RESET);
     }
     // Common =============================================
     private  static void reapetRequest(String level){
