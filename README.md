@@ -1,21 +1,25 @@
 # TEL-RAN_Backend
 
-- [hw_6.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_11_10/src) - _homework 11.10.2022_
+- [ ] [_homework 13.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_13_10/src/Main.java)
 
 ===========================================
 
-- [hw_5.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_06_10/src) - _homework 06.10.2022_
+- [x] [_homework 11.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_11_10/src)
 
 ===========================================
 
-- [hw_4.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_4/src/game/hero/Elf4.java) - _homework 04.10.2022_
+- [x] [_homework 06.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_06_10/src)
 
 ===========================================
 
-- [hw_3.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_3/src/main/java/Main.java) - _homework 29.09.2022_
+- [x] [_homework 04.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_4/src/game/hero/Elf4.java)
 
 ===========================================
 
-- [hw_2.txt](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_2/src/main/java/Main.java) - _homework 27.09.2022_
+- [x] [_homework 29.09.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_3/src/main/java/Main.java)
+
+===========================================
+
+- [x] [_homework 27.09.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_2/src/main/java/Main.java)
 
 ===========================================
