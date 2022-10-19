@@ -1,6 +1,10 @@
 # TEL-RAN_Backend
 
-- [ ] [_homework 13.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_13_10/src/Main.java)
+- [ ] [_homework 18.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_18_10/src)
+
+===========================================
+
+- [x] [_homework 13.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_13_10/src/Main.java)
 
 ===========================================
 
