@@ -1,5 +1,9 @@
 # TEL-RAN_Backend
 
+- [ ] [_homework 25.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_25_10/src)
+
+===========================================
+
 - [ ] [_homework 20.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_20_10/src)
 
 ===========================================

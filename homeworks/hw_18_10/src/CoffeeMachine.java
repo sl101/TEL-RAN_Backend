@@ -1,17 +1,29 @@
+import java.util.Formatter;
+
 public class CoffeeMachine {
     String selectedDrink;
+    String espresso;
+    String cappuccino;
+    String americano;
+    String tea;
+    String error;
 
     public CoffeeMachine(String selectedDrink) {
+        this.espresso = makeEspresso();
+        this.cappuccino = makeCappuccino();
+        this.americano = makeAmericano();
+        this.tea = makeTea();
+        this.error = errorMessage();
         this.selectedDrink = selectedDrink;
     }
 
     private String makeDrink(String selectedDrink){
         return switch (selectedDrink){
-            case "espresso"-> makeEspresso() + "Ваш еспрессо готов !!!";
-            case "americano"-> makeCappuccino() + "Ваш американо готов !!!";
-            case "cappuccino"-> makeAmericano() + "Ваш каппучино готов !!!";
-            case "tea"-> makeTea() + "Ваш чай готов !!!";
-            default-> errorMessage();
+            case "espresso"-> String.format("%s Ваш еспрессо готов !!!", espresso);
+            case "americano"-> String.format("%s Ваш американо готов !!!", americano);
+            case "cappuccino"-> String.format("%s Ваш каппучино готов !!!", cappuccino);
+            case "tea"-> String.format("%s Ваш чай готов !!!", tea);
+            default-> String.format("%s", error);
         };
     }
 
