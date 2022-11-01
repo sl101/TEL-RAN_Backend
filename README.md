@@ -1,6 +1,10 @@
 # TEL-RAN_Backend
 
-- [ ] [_homework 25.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_25_10/src)
+- [ ] [_homework 01.11.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_01_11/src/Main.java)
+
+===========================================
+
+- [x] [_homework 25.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_25_10/src)
 
 ===========================================
 
@@ -8,7 +12,7 @@
 
 ===========================================
 
-- [ ] [_homework 18.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_18_10/src)
+- [x] [_homework 18.10.2022_](https://github.com/sl101/TEL-RAN_Backend/blob/main/homeworks/hw_18_10/src)
 
 ===========================================
 
