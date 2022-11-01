@@ -18,6 +18,7 @@ public class Main {
             iterations++;
         }
 
+
         System.out.println("There are " + iterations + " iterations in the \"While\" loop");
     }
 
