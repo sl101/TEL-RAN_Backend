@@ -1,6 +1,10 @@
 import java.util.Arrays;
 import java.util.Random;
 
+// First level: Создайте массив из 15 случайных целых чисел из отрезка [0;9].
+// Подсчитайте сколько в массиве чётных элементов и выведете это количество на экран на отдельной строке.
+// Прошу зафиксировать seed любым удобным способом для наиболее корректного воспроизведения решения
+
 public class Main {
     public static void main(String[] args) {
         Random random = new Random(5);
